@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/cloud.png</file>
+        <file>images/grass.png</file>
+        <file>images/arrows.png</file>
+        <file>images/cannon_1_small.png</file>
+        <file>images/carriage_1_small.png</file>
+        <file>images/carriage_2_small.png</file>
+    </qresource>
+    <qresource prefix="/qss">
+        <file>style.css</file>
+    </qresource>
+</RCC>
